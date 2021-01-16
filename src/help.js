@@ -1,10 +1,16 @@
 const help = (prefix) => {
 	return `
-「 *BOT_NAME* 」
+「 *FDHY BOT* 」
 
 ◪ *INFO*
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: OWNER_NAME
+  ❏ PREFIX: 「  ${prefix}  」
+  ❏ BOT STATUS: 「ONLINE 24 JAM」
+  ❏ BOT UPDATE: 「16/01/2021」
+
+  ❏ CREATOR: FADHIL HIDAYAT
+  ❏ WA OWNER: 0821 3158 1861
+  ❏ IG OWNER: @fadhilhidayattt_
+
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
@@ -170,7 +176,7 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}afk
   ├─ ❏ ${prefix}fml
   └─ ❏ ${prefix}fml2
-◪ *OWNER_NAME2*
+◪ *FDHY BOT BY FADHIL HIDAYAT*
 `
 }
 
